@@ -18,9 +18,7 @@ struct TasksListView: View {
     
     var body: some View {
         NavigationStack {
-            VStack( alignment: .leading){
-                
-                
+            VStack( alignment: .leading, spacing: 0){
                 HStack{
                     Text("")
                         .font(.callout)
