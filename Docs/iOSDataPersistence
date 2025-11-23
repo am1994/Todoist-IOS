@@ -11,3 +11,5 @@ Data Persistence in iOS
 5- SQLite / Third-Party Databases – Custom Local Database Solutions
 
 6- Cloud Persistence – Syncing Data Across Devices
+
+7- SwiftData – Modern Data Persistence in Swift
